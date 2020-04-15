@@ -1,0 +1,13 @@
+C:\Users\OFouda\Desktop\CSharp1\bin\Debug\netcoreapp3.1\CSharp1.exe
+C:\Users\OFouda\Desktop\CSharp1\bin\Debug\netcoreapp3.1\CSharp1.deps.json
+C:\Users\OFouda\Desktop\CSharp1\bin\Debug\netcoreapp3.1\CSharp1.runtimeconfig.json
+C:\Users\OFouda\Desktop\CSharp1\bin\Debug\netcoreapp3.1\CSharp1.runtimeconfig.dev.json
+C:\Users\OFouda\Desktop\CSharp1\bin\Debug\netcoreapp3.1\CSharp1.dll
+C:\Users\OFouda\Desktop\CSharp1\bin\Debug\netcoreapp3.1\CSharp1.pdb
+C:\Users\OFouda\Desktop\CSharp1\obj\Debug\netcoreapp3.1\CSharp1.csprojAssemblyReference.cache
+C:\Users\OFouda\Desktop\CSharp1\obj\Debug\netcoreapp3.1\CSharp1.csproj.CoreCompileInputs.cache
+C:\Users\OFouda\Desktop\CSharp1\obj\Debug\netcoreapp3.1\CSharp1.AssemblyInfoInputs.cache
+C:\Users\OFouda\Desktop\CSharp1\obj\Debug\netcoreapp3.1\CSharp1.AssemblyInfo.cs
+C:\Users\OFouda\Desktop\CSharp1\obj\Debug\netcoreapp3.1\CSharp1.dll
+C:\Users\OFouda\Desktop\CSharp1\obj\Debug\netcoreapp3.1\CSharp1.pdb
+C:\Users\OFouda\Desktop\CSharp1\obj\Debug\netcoreapp3.1\CSharp1.genruntimeconfig.cache
